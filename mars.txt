@@ -1,2 +1,4 @@
 Cold and dry, but everything is my favorite color.
-Aliens have been sighted. 
+Aliens have been sighted.
+The rover has crashed.
+Send backup.
